@@ -36,7 +36,7 @@ Before enhancing each artifact, I performed a code review walking through the ex
 functionality, identifying weaknesses and limitations, and outlining my planned
 enhancements for each of the three categories.
 
-**▶ [Watch the code review]([PASTE YOUR YOUTUBE / VIDEO LINK HERE])**
+**▶ [Watch the code review](https://youtu.be/Y07bWIF6CzQ)**
 
 ---
 
@@ -49,7 +49,7 @@ enhancements for each of the three categories.
 **Enhancements:** [2–3 sentences on what you changed and why it demonstrates software design and engineering skill.]
 
 <!-- Buttons: swap the URLs, leave the rest alone -->
-[Enhanced Repository](https://github.com/Dyl-flame10/[ARTIFACT-1-REPO]){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM){: .btn }
 [Full Narrative]({{ '/software-design/' | relative_url }}){: .btn }
 
 ---
@@ -62,7 +62,7 @@ enhancements for each of the three categories.
 
 **Enhancements:** [2–3 sentences on the algorithmic/data structure improvements and their impact — efficiency, complexity, correctness.]
 
-[Enhanced Repository](https://github.com/Dyl-flame10/[ARTIFACT-2-REPO]){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM){: .btn }
 [Full Narrative]({{ '/algorithms-data-structures/' | relative_url }}){: .btn }
 
 ---
@@ -75,11 +75,11 @@ enhancements for each of the three categories.
 
 **Enhancements:** [2–3 sentences on the database enhancements — schema changes, queries, CRUD, indexing, security.]
 
-[Enhanced Repository](https://github.com/Dyl-flame10/[ARTIFACT-3-REPO]){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-340-Client-Server-Development-DM){: .btn }
 [Full Narrative]({{ '/databases/' | relative_url }}){: .btn }
 
 ---
 
 ## Contact
 
-[Your Name] · [your.email@example.com] · [github.com/Dyl-flame10](https://github.com/Dyl-flame10) · [LinkedIn]([your linkedin url])
+[Dylan Mousseau] · [mousseaudylan@gmail.com] · [github.com/Dyl-flame10](https://github.com/Dyl-flame10) · [LinkedIn]([your linkedin url])
