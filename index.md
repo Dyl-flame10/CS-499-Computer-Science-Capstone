@@ -42,7 +42,7 @@ enhancements for each of the three categories.
 
 ## Artifact One — Software Design and Engineering
 
-**Artifact:** [Artifact name] · **Original course:** [e.g. CS-360 Mobile Architecture and Programming]
+**Artifact:** Travlr Getaways · **Original course:** CS-465 Full Stack Development
 
 [2–3 sentences: what the artifact is, when it was created, and what it does.]
 
@@ -56,7 +56,7 @@ enhancements for each of the three categories.
 
 ## Artifact Two — Algorithms and Data Structures
 
-**Artifact:** [Artifact name] · **Original course:** [e.g. CS-260 Data Structures and Algorithms]
+**Artifact:** Course Planner Algorithm · **Original course:** CS-300 DSA: Analysis and Design
 
 [2–3 sentences describing the artifact.]
 
@@ -69,7 +69,7 @@ enhancements for each of the three categories.
 
 ## Artifact Three — Databases
 
-**Artifact:** [Artifact name] · **Original course:** [e.g. CS-340 Client/Server Development]
+**Artifact:** Grazioso Salvare AAC Animal Dashboard · **Original course:** CS-340 Client/Server Development
 
 [2–3 sentences describing the artifact.]
 
