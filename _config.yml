@@ -1,0 +1,32 @@
+# ---------------------------------------------------------------
+# Jekyll config for GitHub Pages
+# Repo: Dyl-flame10/CS-499-Computer-Science-Capstone
+# Live at: https://dyl-flame10.github.io/CS-499-Computer-Science-Capstone/
+# ---------------------------------------------------------------
+
+title: Dylan's CS-499 ePortfolio
+description: SNHU Computer Science Capstone
+
+# Pick ONE theme. All of these ship with GitHub Pages, no install needed:
+#   jekyll-theme-cayman      (big colored banner header - clean, modern)
+#   jekyll-theme-minimal     (gray left sidebar w/ "View on GitHub" button)
+#   jekyll-theme-midnight    (dark, like Seth Duck's site)
+#   jekyll-theme-architect   (wide, technical looking)
+#   jekyll-theme-slate       (dark header band, "View project on GitHub")
+#   jekyll-theme-merlot      (warm, sidebar nav)
+theme: jekyll-theme-cayman
+
+# IMPORTANT: because this is a project page (not username.github.io),
+# baseurl must match the repo name exactly.
+url: "https://dyl-flame10.github.io"
+baseurl: "/CS-499-Computer-Science-Capstone"
+
+# Hides the "Download .zip / .tar.gz" buttons some themes add
+show_downloads: false
+
+# Your GitHub username - some themes show this in the footer
+github:
+  is_project_page: true
+
+exclude:
+  - README.md

@@ -1,0 +1,36 @@
+---
+# The empty front matter above is REQUIRED. Do not delete it.
+---
+
+@import "{{ site.theme }}";
+
+/* --- Small tweaks on top of the theme --- */
+
+/* Button styling for the {: .btn } links on the home page */
+.main-content a.btn {
+  display: inline-block;
+  padding: 0.55rem 1.1rem;
+  margin: 0.25rem 0.4rem 0.25rem 0;
+  border: 1px solid rgba(27, 31, 35, 0.2);
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.main-content a.btn:hover {
+  background-color: rgba(27, 31, 35, 0.06);
+  text-decoration: none;
+}
+
+/* Give section dividers a little more breathing room */
+.main-content hr {
+  margin: 2.5rem 0;
+}
+
+/* Slightly wider reading column on large screens */
+@media screen and (min-width: 64em) {
+  .main-content {
+    max-width: 68rem;
+  }
+}
