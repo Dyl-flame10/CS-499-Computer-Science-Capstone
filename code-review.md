@@ -11,7 +11,7 @@ permalink: /code-review/
 A recorded walkthrough of all three original artifacts, covering existing functionality,
 code analysis, and my planned enhancements for each.
 
-**▶ [Watch the code review]([PASTE YOUR VIDEO LINK HERE])**
+**▶ [Watch the code review](https://youtu.be/Y07bWIF6CzQ)**
 
 To embed the video directly instead of linking to it, replace the line above with:
 
