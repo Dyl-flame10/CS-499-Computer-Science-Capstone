@@ -10,11 +10,11 @@ description: SNHU Computer Science Capstone
 # Pick ONE theme. All of these ship with GitHub Pages, no install needed:
 #   jekyll-theme-cayman      (big colored banner header - clean, modern)
 #   jekyll-theme-minimal     (gray left sidebar w/ "View on GitHub" button)
-#   jekyll-theme-midnight    (dark, like Seth Duck's site)
+#   jekyll-theme-midnight    (dark, contrasting theme)
 #   jekyll-theme-architect   (wide, technical looking)
 #   jekyll-theme-slate       (dark header band, "View project on GitHub")
 #   jekyll-theme-merlot      (warm, sidebar nav)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 # IMPORTANT: because this is a project page (not username.github.io),
 # baseurl must match the repo name exactly.
