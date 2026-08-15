@@ -49,7 +49,7 @@ Travlr Getaways is an online travel booking application built to plan vacations 
 **Enhancements:** Restructured middleware, centralized error handling/HTTP response, general bug fixes 
 
 <!-- Buttons: swap the URLs, leave the rest alone -->
-[Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/tree/Enhancement){: .btn }
 [Full Narrative]({{ '/software-design/' | relative_url }}){: .btn }
 
 ---
@@ -58,11 +58,11 @@ Travlr Getaways is an online travel booking application built to plan vacations 
 
 **Artifact:** Course Planner Algorithm · **Original course:** CS-300 DSA: Analysis and Design
 
-[2–3 sentences describing the artifact.]
+The course planner algorithm was designed to sort and look-up a number of courses. in my time in CS-300, we were tasked with finding the ideal data structure for the planner, which I determined to be a vector due to the low memory overhead.
 
-**Enhancements:** [2–3 sentences on the algorithmic/data structure improvements and their impact — efficiency, complexity, correctness.]
+**Enhancements:** Swapped sorting algorithm, added comparable algorithms, created an algorithm preformance comparison script
 
-[Enhanced Repository](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM/tree/Enhancement){: .btn }
 [Full Narrative]({{ '/algorithms-data-structures/' | relative_url }}){: .btn }
 
 ---
@@ -71,11 +71,11 @@ Travlr Getaways is an online travel booking application built to plan vacations 
 
 **Artifact:** Grazioso Salvare AAC Animal Dashboard · **Original course:** CS-340 Client/Server Development
 
-[2–3 sentences describing the artifact.]
+The Grazioso Salvare AAC Animal Dashboard is an animal rescue DB dashboard designed to help employees find a suited animal for a rescue case. It was built in Python using common libs such as Pandas and MatPlotLib. The UI is also built using the Dash framework. The project interacts with an external MongoDB instance to retrieve shelter records.
 
-**Enhancements:** [2–3 sentences on the database enhancements — schema changes, queries, CRUD, indexing, security.]
+**Enhancements:** Normalized record attributes, added server-side aggregation, schema validation, pagination
 
-[Enhanced Repository](https://github.com/Dyl-flame10/CS-340-Client-Server-Development-DM){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-340-Client-Server-Development-DM/tree/Enhancement){: .btn }
 [Full Narrative]({{ '/databases/' | relative_url }}){: .btn }
 
 ---
