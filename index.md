@@ -44,9 +44,9 @@ enhancements for each of the three categories.
 
 **Artifact:** Travlr Getaways · **Original course:** CS-465 Full Stack Development
 
-[2–3 sentences: what the artifact is, when it was created, and what it does.]
+Travlr Getaways is an online travel booking application built to plan vacations for customers. Travlr also has an accompanying admin page for editing trip data. The app is built using Express, Handlebars rendering, and Angular.
 
-**Enhancements:** [2–3 sentences on what you changed and why it demonstrates software design and engineering skill.]
+**Enhancements:** Restructured middleware, centralized error handling/HTTP response, general bug fixes 
 
 <!-- Buttons: swap the URLs, leave the rest alone -->
 [Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM){: .btn }
