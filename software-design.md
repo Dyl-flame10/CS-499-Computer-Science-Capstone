@@ -32,9 +32,6 @@ Additionally, the PUT /trips/:tripCode method did not have an auth check, which 
 
 ## The enhancements I made
 
-[What did you change, concretely? Name classes, functions, structures, or queries.
-Screenshots or short before/after code snippets go a long way here. 2–3 paragraphs.]
-
 The idea behind this enhancement was to better follow the separation of concerns and single responsibility principles as well as create a uniform error handling structure, aside from a few front-end issues on the SPA and public cite, the bulk of changes are in the app_api folder. 
 
 # Before: 
