@@ -13,8 +13,6 @@ code analysis, and my planned enhancements for each.
 
 **▶ [Watch the code review](https://youtu.be/Y07bWIF6CzQ)**
 
-To embed the video directly instead of linking to it, replace the line above with:
-
 <!--
 <iframe width="560" height="315"
         src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
@@ -24,7 +22,7 @@ To embed the video directly instead of linking to it, replace the line above wit
 ## What the review covers
 
 - **Existing functionality** — a walkthrough of each artifact's current behavior.
-- **Code analysis** — structure, logic, efficiency, documentation, security, and testing gaps.
+- **Code analysis** — structure, logic, efficiency, and security.
 - **Enhancement plan** — the specific improvements planned for each category.
 
 ---
