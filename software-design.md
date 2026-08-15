@@ -51,7 +51,7 @@ The Travlr API middleware was completely restructured to separate the responsibi
 
 ## Reflection on the process
 
-[View the enhancement Narrative and Reflection](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/blob/Enhancement/Travlr%20Enhancement%201%20Narrative.pdf))
+[View the enhancement Narrative and Reflection](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/blob/Enhancement/Travlr%20Enhancement%201%20Narrative.pdf)
 
 ---
 
