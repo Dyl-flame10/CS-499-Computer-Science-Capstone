@@ -9,7 +9,7 @@ permalink: /software-design/
 **Category:** Software Design and Engineering  
 **Artifact:** Travlr Getaways 
 **Original course:** CS-465 Full Stack Development  
-**Repository:** [View the enhanced code on GitHub](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/tree/Enhancement))
+**Repository:** [View the enhanced code on GitHub](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/tree/Enhancement)
 
 [← Back to ePortfolio home]({{ '/' | relative_url }})
 
