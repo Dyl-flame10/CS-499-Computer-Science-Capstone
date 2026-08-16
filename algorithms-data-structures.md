@@ -49,7 +49,7 @@ To compare the two quicksort variants as well as the original bubble sort, I als
 
 ## Reflection on the process
 
-[View the enhancement Narrative and Reflection]([ENHANCEMENT 2 NARRATIVE PLACEHOLDER])
+[View the enhancement Narrative and Reflection](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM/blob/Enhancement/CS-499%20Enhancement%202%20Narrative.pdf)
 
 ---
 
