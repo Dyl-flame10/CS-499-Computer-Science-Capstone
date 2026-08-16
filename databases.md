@@ -19,9 +19,13 @@ permalink: /databases/
 
 The Grazioso Salvare AAC animal dashboard is a Dash/Python application used to interact with an External MongoDB of rescue animal records. The dashboard includes a filtered record listing data table, a breed-pie chart relevant to the user's query, and an interactive map of the animals' location.
 
+---
+
 ## Why I selected this artifact
 
 I chose this artifact because it represents an opportunity to improve the database and data layer flaws of the application. The animal records were originally sent as full documents to the client side for aggregation for the data table and pie chart. Additionally, the record attributes include a few redundant fields that can be desynced in update requests. This makes a great target for database normalization. The database instance also had no form of schema validation, meaning attributes that would be considered required can be null and be added to the DB. 
+
+---
 
 ## The enhancements I made
 
