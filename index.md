@@ -80,4 +80,4 @@ The Grazioso Salvare AAC Animal Dashboard is an animal rescue DB dashboard desig
 
 ## Contact
 
-Dylan Mousseau · mousseaudylan@gmail.com · [github.com/Dyl-flame10](https://github.com/Dyl-flame10) · [LinkedIn](www.linkedin.com/in/dylan-mousseau-003456310)
+Dylan Mousseau · mousseaudylan@gmail.com · [github.com/Dyl-flame10](https://github.com/Dyl-flame10) · [LinkedIn](https://www.linkedin.com/in/dylan-mousseau-003456310/)
