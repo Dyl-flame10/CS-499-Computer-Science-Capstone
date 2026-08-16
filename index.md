@@ -17,17 +17,6 @@ title: Dylan's CS-499 ePortfolio
 
 ## Professional Self-Assessment
 
-[Write 3–5 paragraphs here. Things to cover, based on the rubric:]
-
-- What drew you to computer science and how the program shaped your goals.
-- How building this ePortfolio helped you showcase your strengths and shape your professional goals.
-- Collaborating in a team environment.
-- Communicating with stakeholders.
-- Data structures and algorithms.
-- Software engineering and database work.
-- Security mindset.
-- A closing paragraph that ties the three artifacts below together and explains how, as a set, they represent the full range of your computer science skills.
-
 The computer science program at SNHU has greatly helped me understand both the technical and soft skills required in the computer science industry. As someone planning to transition from another field, the coursework that I have done throughout my time in the program has given me the opportunity to develop and hone my skills that can help me in pursuing a career in web development. Additionally, the process of creating this ePortfolio has also given me the chance to reflect on the projects I have worked on, the principles and mindsets I have learned, and how important soft skills are in this line of work.
 
 The coursework in the program covered a lot of the key aspects of the industry as I see it. throughout all of my technical courses, interacting with my peers in the weekly discussion topics helped me develop a new angle to view ideas the differ from mine. Reading though various posts regarding new and exciting technology or reflections on infamous cyberattacks expanded my appreciation to consider every aspect of a topic or project, even if it differs from your own ideas or findings, as previously unseen value or a resolution to a dispute may be discovered. Instructor feedback was also a great resource to guide my thinking and development workflows into more efficient sessions. Another aspect I learned particularly from my System Analysis and Design class (CS-255) taught me the value of being able to communicate systems development to different audiences, mainly non-technical audiences such as consumers or other stakeholders. After taking this course, I view meeting with stakeholders as more of a dialogue than any regular reporting. It taught me how important it is to focus on the operational conversations and to discuss problems or stakeholder conflict directly, as problems untouched or hidden can cause damage further down the dev cycle. Diversity is another aspect of communication I have strengthened greatly because of these courses. A shareholder meeting may look like written reports about cost, ROI, problems, etc. This typically differs from stakeholders, who have varied interests or expectations on a project, requiring different presentations to effectively communicate progress or concerns. To summarize, working in system design classes like CS-255 have greatly expanded my communication skills in knowing how to adapt between technical and non-technical audiences.
