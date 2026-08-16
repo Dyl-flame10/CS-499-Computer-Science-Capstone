@@ -50,8 +50,7 @@ Travlr Getaways is an online travel booking application built to plan vacations 
 **Enhancements:** Restructured middleware, centralized error handling/HTTP response, general bug fixes 
 
 <!-- Buttons: swap the URLs, leave the rest alone -->
-[Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/tree/Enhancement){: .btn }
-[Full Narrative]({{ '/software-design/' | relative_url }}){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-465-Full-Stack-Development-DM/tree/Enhancement){: .btn } . [Full Narrative]({{ '/software-design/' | relative_url }}){: .btn }
 
 ---
 
@@ -63,8 +62,7 @@ The course planner algorithm was designed to sort and look-up a number of course
 
 **Enhancements:** Swapped sorting algorithm, added comparable algorithms, created an algorithm preformance comparison script
 
-[Enhanced Repository](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM/tree/Enhancement){: .btn }
-[Full Narrative]({{ '/algorithms-data-structures/' | relative_url }}){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS300-DSA-Analysis-And-Design-DM/tree/Enhancement){: .btn } . [Full Narrative]({{ '/algorithms-data-structures/' | relative_url }}){: .btn }
 
 ---
 
@@ -76,8 +74,7 @@ The Grazioso Salvare AAC Animal Dashboard is an animal rescue DB dashboard desig
 
 **Enhancements:** Normalized record attributes, added server-side aggregation, schema validation, pagination
 
-[Enhanced Repository](https://github.com/Dyl-flame10/CS-340-Client-Server-Development-DM/tree/Enhancement){: .btn }
-[Full Narrative]({{ '/databases/' | relative_url }}){: .btn }
+[Enhanced Repository](https://github.com/Dyl-flame10/CS-340-Client-Server-Development-DM/tree/Enhancement){: .btn } . [Full Narrative]({{ '/databases/' | relative_url }}){: .btn }
 
 ---
 
