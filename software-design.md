@@ -28,7 +28,7 @@ that were not addressed during the course as well as a few bugs/security vulnera
 
 Additionally, the PUT /trips/:tripCode method did not have an auth check, which could allow trips to be edited without a valid token. Other route controllers also created their own error shape (res.status(xxx).json({})) on every failure branch, and Mongoose promises that were rejected had no error handling. This was an area to showcase an improvement with my understanding and skills in defensive programming. For a real instance of an app like this, it would be imperative to auth requests on both the UI and server side as well as ensuring the failures are shaped correctly and notify when they happen. In short, the middleware of the application was all manually implemented and specified for specific parts of the API, leaving large auth and error handling holes in the application. As an aside, there are a few logic bugs within the angular components (app_admin) and rendering errors on the public facing cite (app_server).
 
-
+---
 
 ## The enhancements I made
 
@@ -42,9 +42,7 @@ The idea behind this enhancement was to better follow the separation of concerns
 
 The Travlr API middleware was completely restructured to separate the responsibilities of the API into separate modules in the new "middleware" and "error" folders. auth.js is a newly implemented JWT authentication layer the properly uses the library and error pipeline, plugging the previously missed edge cases not accounted for in the manual implementation. APIError.js gives the controllers all a single vocabulary to reference when encountering a program failure, ensuring consistent error shapes. ErrorHandler.js is the single place responsible for turning any error into an HTTP response. Each of these new modules represent one task in token authorization and the error handling instead of one file tangling all three responsibilities together, which also removed the boilerplate res.status().json repeated in the controller branches. Finally, wrapping the async controllers in the new asyncHandler module, adding a try/catch block to passport.js, and adding auth to the tripCode request all showcase defensive programming practices.
 
-```
-
-```
+---
 
 ## Reflection on the process
 
